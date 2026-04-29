@@ -1,0 +1,15 @@
+customtkinter
+opencv-python
+torch
+torchvision
+GPUtil
+psutil
+tkinterdnd2
+scipy
+numpy
+Pillow
+matplotlib==3.8.2
+fastdtw
+safetensors
+# Meta SAM3 & DINOv3 (SAM3 is on PyPI, DINOv3 handled via torch.hub/safetensors)
+sam3
